@@ -1,1 +1,2 @@
-Print(cos cos)
+Print("cos cos")
+Print("zmiana druga")
